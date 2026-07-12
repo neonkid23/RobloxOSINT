@@ -1,0 +1,7 @@
+# Optional Roblox cookie file for authenticated lookups you are authorized to perform.
+# Keep this file private. It is ignored by .gitignore.
+.ROBLOSECURITY=_[INSERT_COOKIE_HERE]
+# Leave this file as comments unless you intentionally enable:
+# python main.py <username-or-user-id> --use-cookies
+
+

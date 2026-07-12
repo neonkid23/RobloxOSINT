@@ -1,0 +1,14 @@
+# Optional Roblox cookie file for authenticated lookups you are authorized to perform.
+# Keep this file private. It is ignored by .gitignore.
+#
+# Supported formats:
+# 1) Simple:
+# .ROBLOSECURITY=_[COOKIE VALUE HERE]
+#
+# 2) Netscape cookies.txt export:
+# .roblox.com	TRUE	/	TRUE	0	.ROBLOSECURITY=_[COOKIE VALUE HERE]
+#
+# Leave this file as comments unless you intentionally enable:
+# python main.py <username-or-user-id> --use-cookies
+
+

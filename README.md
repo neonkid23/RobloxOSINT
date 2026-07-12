@@ -1,4 +1,4 @@
-# RobloxOSINT
+# Roblox Public Account Lookup
 
 Plain Python command-line utility for legal and educational Roblox public account research.
 
