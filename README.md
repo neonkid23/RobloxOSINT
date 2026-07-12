@@ -1,4 +1,4 @@
-# Roblox Public Account Lookup
+# Roblox OSINT /// Public Account Lookup
 
 Plain Python command-line utility for legal and educational Roblox public account research.
 
@@ -316,3 +316,5 @@ Roblox Open Cloud documentation:
 
 - https://create.roblox.com/docs/en-us/cloud
 - https://create.roblox.com/docs/en-us/cloud/auth/api-keys
+
+This tool collects and analyzes publicly available information and does not bypass Roblox security or access private data. I am not responsible for any misuse, abuse, or consequences resulting from the use of this tool. 
